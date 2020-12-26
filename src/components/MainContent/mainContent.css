@@ -1,0 +1,8 @@
+.zoomIcon:focus,
+.dialogCloseIcon:focus, .downloadIcon:focus {
+  outline: none;
+}
+
+.dialogActions {
+  display: block !important;
+}
